@@ -1,0 +1,55 @@
+# Compiled class files
+/target/
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven specific
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# avoid uploading IntelliJ project files
+*.iml
+.idea/
+.idea_modules/
+*.ipr
+*.iws
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# User-specific files
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/dictionaries
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Embedded Maven wrapper
+.mvn/
+!/.mvn/wrapper/maven-wrapper.properties
+
+# Virtual machine crash logs
+hs_err_pid*
