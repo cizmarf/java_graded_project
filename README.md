@@ -1,4 +1,4 @@
-# A Graded Java Project -- Mandelbrot Set
+# A Graded Java Project - Mandelbrot Set
 
 This application visualizes the Mandelbrot Set, allowing users to zoom and pan the fractal in real-time. 
 
